@@ -1,0 +1,10 @@
+﻿# Ignore everything except uploads/ and models/
+*
+!.gitignore
+!README.md
+!uploads/
+!models/
+uploads/*
+!uploads/**
+models/*
+!models/**
